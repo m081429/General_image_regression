@@ -1,0 +1,4 @@
+EfficientNetV2
+VGG19
+MobileNetV3
+DenseNet201
